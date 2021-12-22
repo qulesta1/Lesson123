@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"> Lesson123</string>
+    <string name="image_1"> image 1</string>
+    <string name="image_2"> image 2</string>
+    <string name="image_3"> image 3</string>
+    <string name="ilon"> Ilon Mask </string>
+    <string name="mark"> Mark Cukerberk</string>
+    <string name="bezos"> Djeff Bezos </string>
+    <string name="welcome_to_game"> Welcome to Game</string>
+    <string name="start"> Start</string>
+
+</resources>
